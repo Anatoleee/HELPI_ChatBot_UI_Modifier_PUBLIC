@@ -8,7 +8,7 @@ HELPI_ChatBot_UI_Modifier est un site qui permet de modifer en No-Code un fichie
 
 HELPI_ChatBot_UI_Modifier_PUBLIC est utilisé par :
 
-- 🇫🇷 Département de la Nièvre
+- 🇫🇷 Conseil départementale de la Nièvre
 
 
 ## 👨‍💻 Auteur :
